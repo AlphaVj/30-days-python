@@ -1,30 +1,5 @@
 # Awesome Python Course (Beginners To Advance)
 
-```docx
-Sn.no	Topic
-   01	Introduction to Python
-
-02	
-03	
-04	
-	Flow Control
-05	
-06	
-07	
-08	
-09	
-10	
-11	
-12	
-13	
-14	
-15	
-16	
-17	
-
-
-```
-
 | Beginner's Module|
 |:---------------------------------------------------------------------:|
 _________________________________________________________________________
@@ -35,12 +10,7 @@ _________________________________________________________________________
 | 02  |  [Reserved keywords, Variables, Expressions]()|
 | 03  |  [Operators]()|
 | 04  |  [Introduction to Python Data Types, Using Comments in Python]()|
-
-|     ◯◯◯◯◯◯◯◯◯◯◯  **Flow Control**  ◯◯◯◯◯◯◯◯◯◯◯|
-|:---------------------------------------------------------------------:|
-
-|  |                                                     |
-|------|:---------------------------------------------------------:|
+| 🚩 |   **Flow control** |
 | 05  |  [Conditional Statements and Recursion]()|
 | 06  |  [Looping Statements]()|
 | 07  |  [Number System and Conversions]()|
