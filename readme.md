@@ -10,7 +10,7 @@ _________________________________________________________________________
 | 02  |  [Reserved keywords, Variables, Expressions]()|
 | 03  |  [Operators]()|
 | 04  |  [Introduction to Python Data Types, Using Comments in Python]()|
-|     |   **Flow Control**                                                               |
+|     |   **Flow Control**  |
 | 05  |  [Conditional Statements and Recursion]()|
 | 06  |  [Looping Statements]()|
 | 07  |  [Number System and Conversions]()|
