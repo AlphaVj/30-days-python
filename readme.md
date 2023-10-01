@@ -151,7 +151,7 @@ Start Learning 🚀
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
 </div>
 <div>
-<button style='height:5vh; width:14vh; border-radius:30px; background-color:yellow'><a href='./readme.md'></a>Next 02 ⇨</button>
+<button style='height:8vh; width:20vh; border-radius:30px; background-color:yellow;'><a href='./readme.md'></a>Next 02 ⇨</button>
 </div>
 <br>
 
