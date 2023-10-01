@@ -150,9 +150,9 @@ Start Learning 🚀
 </svg></a>
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
 </div>
-<div>
-<button style='height:8vh; width:20vh; border-radius:30px; background-color:yellow;'><a href='./readme.md'></a>Next 02 ⇨</button>
-</div>
+
+<a href='https://www.w3schools.com/howto/howto_css_round_buttons.asp'><button style='height:7vh; width:20vh; border-radius:30px; background-color:yellow;'>Next 02 ⇨</button></a>
+
 <br>
 
 ![awesome python course](./images/01.jpg)
