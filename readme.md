@@ -256,7 +256,8 @@ next, run it by double-clicking on the downloaded file.
 
 **Step 4: Upgrade the Pip**
  Type this command `pip install --upgrade pip` to upgrade the pip
-# Python Shell
+### Python Shell
+-------------------------------
 Python's standard library has an executable module called IDLE – short for Integrated Development and Learning Environment. Find it from Window start menu and launch.
 
 python has two basic modes which are interactive mode and script mode
@@ -272,30 +273,93 @@ For script mode you will need to open a new file in File menu,a new python file 
 ![](./images/idle-script1.png)
 ![](./images/idle-script2.png)
 
-#### Python in windows command prompt
-On your PC press windows key + R,a run pannel will appear in that type cmd and press enter,
+### Python in windows command prompt
+On your PC press windows key + R, a run pannel will appear in that type cmd and press enter,
 the command prompt will open,
 *  then type `python --version` and press enter to see the downloaded version of python in your system.
-* similarly use the command `pip -V` to view the version and system installed location of pip. later on we see about pip.
+* similarly use the command `pip -V` to view the version and system installed location of pip. Later on in this course we will see about pip.
 * use the command `python` to run the python interactive mode in command prompt.
 
 ![](./images/python%20in%20cmd.png)
 
-You can also run the python script file in command prompt, by using this command `python your_file_name` 
+**create a python script file in notepad and Run it in command prompt:**
+   * open the notepad
+   * type your python scripts
+   * go to file menu click save as,
+   * choose the location then type the file name ending with `.py`  and also change the save_as_type to `All Files`
+   * now your python script file is ready
 
-for example: 
+Run the python script file in command prompt, by using this command `python your_file_name` 
+
+**for example:**
 ```
 python hello.py
 ```
  the above command will works only if your python script file present on the same current working directory of command prompt
 
-if your python script file is in another disk/directory, use the command `python your_fie_location`.From the previous command instead of file name you should mention your file name along with the file path/location or else change the current working directory(CWD) to the directory where your python script file is located using system commands: `dir`- to list the directories and files in CWD, cd ..` - move back to parent directory, `cd /d path` - to change the CWD to another specified path
+if your python script file is in another disk/directory, use the command `python your_fie_location`.From the previous command instead of file name you should mention your file name along with the file path/location or else change the current working directory(CWD) to the directory where your python script file is located using system commands: `dir`- to list the directories and files in CWD, `cd ..` - move back to parent directory, `cd /d path` - to change the CWD to another specified path
 
 for example:
  ```
  D:\> cd /d C:\Users\vijay\Downloads
  D:\> python C:\Users\vijay\Downloads\hello.py
  ```
- 
+
 
 ### Installing Python on Ubuntu
+--------------------------------
+**Check If Python is Already Installed on Ubuntu:**
+1. First, open Terminal using the “Alt + Ctrl + T” keyboard shortcut and run the below command. If the command gives an output with the version number, it means you already have Python installed in Ubuntu. To exit Python’s environment, press “Ctrl + D”. In case you get an error message like “Command not found”, you don’t have Python installed. So move to the next method to install it.
+```shell
+python3
+```
+![install](./images/python-ubuntu1.jpg)
+
+2. You can also run the below command to check the Python version on your Ubuntu installation.
+```shell
+python3 --version
+```
+3. If an older version of Python is installed, run the below command to update Python to the latest version on your Linux distro.
+```shell
+sudo apt --only-upgrade install python3
+```
+![upgrade](./images/python-ubuntu2.jpg)
+
+**Install Python in Ubuntu from Official Repository**
+Python is available in Ubuntu’s official repository, so you don’t have to do much other than execute a simple command to seamlessly install it on your system. Here is how to do it.
+
+1. Open Terminal in Ubuntu and run the below command to update all the packages and repositories.
+```shell
+sudo apt update && sudo apt upgrade -y
+```
+![install](./images/python-ubunt3.jpg)
+
+2. Next, install Python in Ubuntu by running the below command. This will automatically install Python on your machine.
+```shell
+sudo apt install python3
+```
+![install](./images/python-ubuntu4.jpg)
+
+* Use the terminal command `python3` to open a python interactive mode 
+
+**create a python script file in text editor and Run it in Terminal:**
+   * open the text editor
+   * type your python scripts
+   * choose the location then save your file with the name ending with `.py`  and also change.
+   * now your python script file is ready
+
+Run the python script file in Terminal, by using this command `python3 your_file_name` 
+
+**for example:**
+```
+python3 hello.py
+```
+ the above command will works only if your python script file present on the same Present working directory(PWD)
+
+if your python script file is in another disk/directory, use the command `python3 your_fie_location`. From the previous command instead of file name you should mention your file name along with the file path/location or else change the PWD to the directory where your python script file is located using system commands: `ls`- to list the directories and files in PWD, `cd ..` - move back to parent directory, `cd /` - change the directory to root directory, `cd path` - to change the PWD to another specified path
+
+**for example:**
+ ```
+ lenovo:~$ cd /home/username/Downloads
+ lenovo:~$ python3 /home/username/Downloads/hello.py
+ ```
