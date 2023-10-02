@@ -158,7 +158,7 @@ Start Learning 🚀
 ![awesome python course](./images/01.jpg)
 
 ## Introduction
-    Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
+> Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
 
 This Awesome Python Course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course you will find yourself to be more confidence and experience in python. 
 
@@ -167,9 +167,9 @@ Python is a very popular general-purpose interpreted, interactive, object-orient
 * **High-level:** Python is considered a high-level programming language because it abstracts many low-level details, such as memory management and hardware-specific operations, away from the programmer. This abstraction allows developers to focus more on solving problems and writing code that is easier to read and maintain. High-level languages are designed to be user-friendly and provide a high level of abstraction from the underlying hardware.
 
 * **General-Purpose:** Python is a general-purpose language, which means it is not specialized for a specific type of application or domain. It can be used for a wide variety of tasks, from web development and data analysis to scientific computing, artificial intelligence, scripting, and more. Python's versatility and extensive libraries make it suitable for a broad range of applications.
-```
-Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation.
-```
+
+> Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation.
+
 ## Why to Learn Python?
 Python is a popular programming language for several compelling reasons, making it a preferred choice for a wide range of applications. Here are some of the key reasons why Python is a great language to learn and use:
 
@@ -207,12 +207,12 @@ Python leaves you free to choose to program in an object-oriented, procedural, f
 * Beautiful
 * Explicit
 * Readable
-```
-When Comes into Program Execution, the Program Transulator, which converts the high-level(Program code) to Low Level(Machine Understandable code 0's and 1's) are Categorized as:
+
+> When Comes into Program Execution, the Program Transulator, which converts the high-level(Program code) to Low Level(Machine Understandable code 0's and 1's) are Categorized as:
 * Compiler
 * Interpreter
 * Assembler
-```
+
 # Compiler
 > A compiler translates the entire source code written by a programmer into machine code or an intermediate code in a single step. This translation is done before execution. The resulting executable file can be run multiple times without needing to recompile, as the translation is already complete.
 
@@ -248,6 +248,7 @@ next, run it by double-clicking on the downloaded file.
 * Tick the check box Add python.exe to PATH
 * Then, Click on Install Now
 * After Installing, Restart the Windows
+
 ![installation Dialogue Box](./images/python-setup.png)
 
 **Step 3: Verify Python Was Installed On Windows**
@@ -255,5 +256,46 @@ next, run it by double-clicking on the downloaded file.
 
 **Step 4: Upgrade the Pip**
  Type this command `pip install --upgrade pip` to upgrade the pip
+# Python Shell
+Python's standard library has an executable module called IDLE – short for Integrated Development and Learning Environment. Find it from Window start menu and launch.
+
+python has two basic modes which are interactive mode and script mode
+
+#### Interactive Mode:
+The Python interactive shell is opened and it is waiting for you to write Python code(Python script). You will write your Python script next to this symbol >>> and then click Enter then it shows result in next line.
+
+![interactive mode](./images/idle-interactive.png)
+
+#### Script Mode
+For script mode you will need to open a new file in File menu,a new python file will opened then type your python code and save it,afer that click 'run module' in run menu or simply press `F5` to Run the code, the output will shown on the idle shell.
+
+![](./images/idle-script1.png)
+![](./images/idle-script2.png)
+
+#### Python in windows command prompt
+On your PC press windows key + R,a run pannel will appear in that type cmd and press enter,
+the command prompt will open,
+*  then type `python --version` and press enter to see the downloaded version of python in your system.
+* similarly use the command `pip -V` to view the version and system installed location of pip. later on we see about pip.
+* use the command `python` to run the python interactive mode in command prompt.
+
+![](./images/python%20in%20cmd.png)
+
+You can also run the python script file in command prompt, by using this command `python your_file_name` 
+
+for example: 
+```
+python hello.py
+```
+ the above command will works only if your python script file present on the same current working directory of command prompt
+
+if your python script file is in another disk/directory, use the command `python your_fie_location`.From the previous command instead of file name you should mention your file name along with the file path/location or else change the current working directory(CWD) to the directory where your python script file is located using system commands: `dir`- to list the directories and files in CWD, cd ..` - move back to parent directory, `cd /d path` - to change the CWD to another specified path
+
+for example:
+ ```
+ D:\> cd /d C:\Users\vijay\Downloads
+ D:\> python C:\Users\vijay\Downloads\hello.py
+ ```
+ 
 
 ### Installing Python on Ubuntu
