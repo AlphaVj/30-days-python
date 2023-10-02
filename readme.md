@@ -157,7 +157,103 @@ Start Learning 🚀
 
 ![awesome python course](./images/01.jpg)
 
+## Introduction
+    Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
+
+This Awesome Python Course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course you will find yourself to be more confidence and experience in python. 
+
+## What is Python?
+Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).
+* **High-level:** Python is considered a high-level programming language because it abstracts many low-level details, such as memory management and hardware-specific operations, away from the programmer. This abstraction allows developers to focus more on solving problems and writing code that is easier to read and maintain. High-level languages are designed to be user-friendly and provide a high level of abstraction from the underlying hardware.
+
+* **General-Purpose:** Python is a general-purpose language, which means it is not specialized for a specific type of application or domain. It can be used for a wide variety of tasks, from web development and data analysis to scientific computing, artificial intelligence, scripting, and more. Python's versatility and extensive libraries make it suitable for a broad range of applications.
+```
+Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation.
+```
+## Why to Learn Python?
+Python is a popular programming language for several compelling reasons, making it a preferred choice for a wide range of applications. Here are some of the key reasons why Python is a great language to learn and use:
+
+**1) Readability and Simplicity:** Python's syntax is designed to be clean and readable, with a focus on human-friendly code. Its use of indentation for block structure forces clean and consistent code formatting, making it easier for developers to understand and maintain code.
+
+**2) Versatility:** Python is a general-purpose programming language, meaning it can be used for almost any type of application or project. Whether you're interested in web development, data analysis, artificial intelligence, scientific computing, automation, or game development, Python has libraries and frameworks to support your needs.
+
+**3) Large Standard Library:** Python comes with an extensive standard library that includes modules and functions for common tasks, reducing the need to write code from scratch. This library simplifies various aspects of development, such as file handling, networking, and data manipulation.
+
+**4) Community and Documentation:** Python has a vast and active community of developers worldwide. This community contributes to the language's growth, provides extensive documentation, and offers support through forums, mailing lists, and online resources. This makes it easy to find solutions to common problems and learn from others.
+
+**5) Cross-Platform Compatibility:** Python is available on multiple platforms, including Windows, macOS, and various Unix-like systems. Code written in Python is highly portable, allowing developers to create applications that work seamlessly across different operating systems.
+
+**6) Interpreted Language:** Python is an interpreted language, meaning you can write and execute code directly without the need for compilation. This results in quicker development cycles and easier debugging.
+
+**7) Dynamic Typing:** Python is dynamically typed, which means you don't need to declare variable types explicitly. This dynamic typing makes the language flexible and allows for rapid prototyping and development.
+
+**8) Open Source:** Python is open source and freely available, encouraging collaboration and innovation. Developers can contribute to the language's development, and this openness has led to the creation of numerous third-party libraries and frameworks.
+
+**9) Data Science and Machine Learning:** Python is a dominant language in the fields of data science and machine learning. Libraries like NumPy, pandas, scikit-learn, and TensorFlow have made it the go-to language for data analysis and artificial intelligence projects.
+
+**10) Web Development:** Python offers powerful web development frameworks like Django and Flask, making it easy to build robust and scalable web applications.
+
+**11) Automation and Scripting:** Python is often used for automation and scripting tasks due to its simplicity and ease of use. It's widely employed for tasks like data scraping, file manipulation, and system administration.
+
+**12) Job Opportunities:** Python is in high demand in the job market. Learning Python can open up career opportunities in various industries, including technology, finance, healthcare, and more.
+
+## Pythonic Code Style
+Python leaves you free to choose to program in an object-oriented, procedural, functional, aspect-oriented, or even logic-oriented way. These freedoms make Python a great language to write clean and beautiful code.
+
+**Pythonic Code Style is actually more of a design philosophy and suggests to write a code which is :**
+
+* Clean
+* Simple
+* Beautiful
+* Explicit
+* Readable
+```
+When Comes into Program Execution, the Program Transulator, which converts the high-level(Program code) to Low Level(Machine Understandable code 0's and 1's) are Categorized as:
+* Compiler
+* Interpreter
+* Assembler
+```
+# Compiler
+> A compiler translates the entire source code written by a programmer into machine code or an intermediate code in a single step. This translation is done before execution. The resulting executable file can be run multiple times without needing to recompile, as the translation is already complete.
+
+> Compiled code is often platform-dependent. A program compiled for one architecture or operating system may not run on another without recompilation for the target platform.
+
+> **Compiler:** Languages like C, C++, Rust, and Go are typically compiled languages.
+
+# What is Interpreter ?
+ > A python interpreter is a computer program that converts each high-level program statement into machine code. An interpreter translates the command that you write out into code that the computer can understand. 
+
+ > An interpreter translates the source code line by line or statement by statement, executing each line immediately after translation. There is no separate compilation step, and the translation and execution are interleaved.
+
+ > Interpreted languages are often more portable because the interpreter can be installed on various platforms, allowing the same source code to run on different systems without modification.
+
+> **Interpreter:** Languages like Python, JavaScript, Ruby, and PHP are typically interpreted languages.
+# Environment Setup
+Python Interpreter is readily available for all leading Platforms (i.e Windows, ubuntu, MAC, unix, Palm Os, etc..)
+
+To Run a Python Scripts first you need to Download and Install the Python Software and Other Editors.
 
 
 
+### Installing Python on Windows
 
+**Step 1: Download the Full Installer**
+
+First you need to Download Python, Download the Latest Version in: https://www.python.org/downloads/
+
+![Python Download](./images/python%20download.png)
+
+**Step 2: Run the Installer**
+next, run it by double-clicking on the downloaded file.
+* Tick the check box Add python.exe to PATH
+* Then, Click on Install Now
+* After Installing, Restart the Windows
+![installation Dialogue Box](./images/python-setup.png)
+
+**Step 3: Verify Python Was Installed On Windows**
+* open your command prompt and type `python --version` or type `python` to see the python interactive mode in command prompt.
+
+**Step 4: Upgrade the Pip**
+ Type this command `pip install --upgrade pip` to upgrade the pip
+
+### Installing Python on Ubuntu
