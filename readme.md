@@ -265,6 +265,14 @@ python has two basic modes which are interactive mode and script mode
 #### Interactive Mode:
 The Python interactive shell is opened and it is waiting for you to write Python code(Python script). You will write your Python script next to this symbol >>> and then click Enter then it shows result in next line.
 
+Let us do some maths first before we write any Python code:
+
+- 5 + 2 is 7
+- 4/2 is 2.0
+- 5 ** 3 is same as 5 * 5 * 5
+- 4 % 2 = 0 => `%` used to get remainder value of division
+- 4 // 2 = 2 => returns the integer part of division quotient
+
 ![interactive mode](./images/idle-interactive.png)
 
 #### Script Mode
@@ -363,3 +371,61 @@ if your python script file is in another disk/directory, use the command `python
  lenovo:~$ cd /home/username/Downloads
  lenovo:~$ python3 /home/username/Downloads/hello.py
  ```
+ #### Working with code Editors:
+ **How to Setup VScode For Python:**
+ 
+**Step 1: Download the latest version of VsCode From** https://code.visualstudio.com/download
+
+**Step 2: Open the downloaded setup file**
+
+**Step 3: Accept the agreement and click next, then follow the instructions and finish the installation.**
+
+![install](./images/vscode.png)
+
+**Step 4: open the VScode and go to the extensions menu search for code runner and install it**
+
+![install](./images/code%20runner.png)
+
+**Step 5: similarly install the Python Extension**
+
+![install](./images/vscode2.jpg)
+
+**Step 6: Now Click on the `Open Folder` select the directory where you want to store your project files.**
+
+**Step 7: Goto File menu click the Auto Save Option.**
+![autosave](./images/autosave.png)
+**Step 8: create a new file with python extension `.py` type your code and click Run Python file, for the first time it will ask to set the python interpreter, choose the python interpreter you downloaded then run your file.**
+![run](./images/vscode3.png)
+
+The outputs are shown in the terminal, to open a terminal in VScode use the shortcut: 
+```shell
+ctrl + `
+```
+![terminal](./images/vscode%20terminal.png)
+
+#### How to Download and Install Pycharm IDE:
+-------------------------------------------
+Code Editor: PyCharm provides a powerful code editor with features like syntax highlighting, code completion, code analysis, and code navigation. It supports a wide range of Python versions. 
+
+Download the Pycharm Community Version From here https://www.jetbrains.com/pycharm/download/?section=windows
+
+![install](./images/pycharm.png)
+
+Now Open the Downloaded file and click next, follow the instructions to finish Download
+
+![install](./images/pycharm%20setup.jpg)
+
+The PyCharm executable will be added to the Start Menu and desktop (if selected).
+
+**Note: Restart is required if you enable the PATH variable.**
+
+After Installation, Open the pycharm IDE, click on the New Project, Now Select the Location of your Project Directory and set the Base Interpreter to python3, which you previously installed on the system and click the create button
+
+![create](./images/pycharm-project.png)
+
+Now the Project Folder will Opened with python file `main.py` initially it will come with sample condings, clear all the scripts, set the Run main to current file and start to code
+
+![start](./images/pycharm%20start.png)
+
+# 
+
