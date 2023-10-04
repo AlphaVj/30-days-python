@@ -6,20 +6,20 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction to Python](./readme.md)|
+| 01  |  [Introduction to Python](#introduction)|
 | 02  |  [Reserved keywords, Variables, Expressions]()|
 | 03  |  [Operators]()|
-| 04  |  [Introduction to Python Data Types, Using Comments in Python]()|
-| 05  |  [Conditional Statements and Recursion]()|
-| 06  |  [Looping Statements]()|
-| 07  |  [Number System and Conversions]()|
-| 08  |  [String]()|
-| 09  |  [List]()|
-| 10  |  [Tuple]()|
-| 11  |  [Dictionary]()|
-| 12  |  [Set]()|
-| 13  |  [Functions]()|
-| 14  |  [List Comprehension]()|
+| 04  |  [Conditional Statements and Recursion]()|
+| 05  |  [Looping Statements]()|
+| 06  |  [Number System and Conversions]()|
+| 07  |  [String]()|
+| 08  |  [List]()|
+| 09  |  [Tuple]()|
+| 10  |  [Dictionary]()|
+| 11  |  [Set]()|
+| 12  |  [Functions]()|
+| 13  |  [List Comprehension]()|
+| 14  |  [Python package Manager - PIP]()|
 | 15  |  [Modules]()|
 | 16  |  [Arrays]()|
 | 17  |  [Higher Order Functions]()|
@@ -40,39 +40,38 @@ _________________________________________________________________________
 | 23  |  [Multithreading in Python]()|
 | 24  |  [Python synchronization]()|
 | 25  |  [Networking and Security Programming With Python]()|
-| 26  |  [Python package Manager - PIP]()|
-| 27  |  [Python GUI Programming]()|
-| 28  |  [XML Processing in Python]()|
+| 26  |  [Python GUI Programming]()|
+| 27  |  [XML Processing in Python]()|
 | 🚩  |  Programming With External Libraries|
-| 29  |  [OS Module]()|
-| 30  |  [Sending Email - smptlib ]()|
-| 31  |  [wikipedia module]()|
-| 32  |  [Web Scraping]()|
-| 33  |  [Text to Speech Synthesis - pyttsx3, gTTS, CoquiTTS, Larynx]()|
-| 34  |  [Speech Recognition - SpeechRecognition, google-cloud-speech,]()|
-| 35  |  [Language Transulator - googletrans]()|
-| 36  |  [Internet Search Engine Modules]()|
-| 37  |  [JSON]()|
-| 38  |  [pygame, pyaztro]()|
-| 39  |  [Authentication in Python]()|
-| 40  |  [Geolocation - GPS Tracking]()|
+| 28  |  [OS Module]()|
+| 29  |  [Sending Email - smptlib ]()|
+| 30  |  [wikipedia module]()|
+| 31  |  [Web Scraping]()|
+| 32  |  [Text to Speech Synthesis - pyttsx3, gTTS, CoquiTTS, Larynx]()|
+| 33  |  [Speech Recognition - SpeechRecognition, google-cloud-speech,]()|
+| 34  |  [Language Transulator - googletrans]()|
+| 35  |  [Internet Search Engine Modules]()|
+| 36  |  [JSON]()|
+| 37  |  [pygame, pyaztro]()|
+| 38  |  [Authentication in Python]()|
+| 39  |  [Geolocation - GPS Tracking]()|
 | 🚩  |  (DSA) Data Structure and Algorithms in Python|
-| 41  |  [DSA Introduction]()|
-| 42  |  [Data Structures part-1]()|
-| 43  |  [Data Structures part-2]()|
-| 44  |  [Tree Based DSA - 1]()|
-| 45  |  [Tree Based DSA - 2]()|
-| 46  |  [Graph Based DSA - 1]()|
-| 47  |  [Sorting and Searching Algorithms ]()|
-| 48  |  [Greedy Algorithms ]()|
-| 49  |  [Dynamic Programming]()|
-| 50  |  [Other Algorithms]()|
+| 40  |  [DSA Introduction]()|
+| 41  |  [Data Structures part-1]()|
+| 42  |  [Data Structures part-2]()|
+| 43  |  [Tree Based DSA - 1]()|
+| 44  |  [Tree Based DSA - 2]()|
+| 45  |  [Graph Based DSA - 1]()|
+| 46  |  [Sorting and Searching Algorithms ]()|
+| 47  |  [Greedy Algorithms ]()|
+| 50  |  [Dynamic Programming]()|
+| 51  |  [Other Algorithms]()|
 | 🚩  |  Databases in Python|
-| 51  |  [Introduction To Database]()|
-| 52  |  [SQLite]()|
-| 53  |  [SQLAlchemy]()|
-| 54  |  [MySQL and PostgreSQL]()|
-| 55  |  [MongoDB]()|
+| 52  |  [Introduction To Database]()|
+| 53  |  [SQLite]()|
+| 54  |  [SQLAlchemy]()|
+| 55  |  [MySQL and PostgreSQL]()|
+| 56  |  [MongoDB]()|
 
 
 ________________________________________________________________________
@@ -83,57 +82,57 @@ _________________________________________________________________________
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
 | 🚩  |  Data Science & Deep Learning |
-| 56  |  [Introduction to Data Science]()|
-| 57  |  [Pandas]()|
-| 58  |  [Numpy]()|
-| 59  |  [Data Processing]()|
-| 60  |  [Dta Visualization]()|
-| 61  |  [Statistical Data Analysis]()|
-| 62  |  [Machine Learning]()|
-| 63  |  [Feature Engineering]()|
-| 64  |  [OpenCV]()|
-| 65  |  [TensorFlow]()|
-| 66  |  [Keras and Pytorch]()|
-| 67  |  [Mathematics For Deep Learning]()|
-| 68  |  [Neural Networks Fundamentals]()|
-| 69  |  [Deep Learning Architectures]()|
-| 70  |  [Natural Language Processing]()|
-| 71  |  [Deep Learning Model Implementation]()|
-| 72  |  [Practical Deep Learning Projects]()|
+| 57  |  [Introduction to Data Science]()|
+| 58  |  [Pandas]()|
+| 59  |  [Numpy]()|
+| 60  |  [Data Processing]()|
+| 61  |  [Dta Visualization]()|
+| 62  |  [Statistical Data Analysis]()|
+| 63  |  [Machine Learning]()|
+| 64  |  [Feature Engineering]()|
+| 65  |  [OpenCV]()|
+| 66  |  [TensorFlow]()|
+| 67  |  [Keras and Pytorch]()|
+| 68  |  [Mathematics For Deep Learning]()|
+| 69  |  [Neural Networks Fundamentals]()|
+| 70  |  [Deep Learning Architectures]()|
+| 71  |  [Natural Language Processing]()|
+| 72  |  [Deep Learning Model Implementation]()|
+| 73  |  [Practical Deep Learning Projects]()|
 | 🚩  |  Python Web Development|
-| 73  |  [Introduction to Python Web Development - Web Basics]()|
-| 74  |  [Virtual Environment]()|
+| 74  |  [Introduction to Python Web Development - Web Basics]()|
+| 75  |  [Virtual Environment](#virtual-environment)|
 |   |  **FLASK** |
-| 75  |  [Introduction To Flask]()|
-| 76  |  [Application Structure and Setup]()|
-| 77  |  [Templates and Static Files]()|
-| 78  |  [URL Routing,Accessing Request Data and Responces]()|
-| 79  |  [Working with Database]()|
-| 80  |  [Cookies and Sessions]()|
-| 81  |  [Redirecting and errors,Error Handling in Flask]()|
-| 82  |  [Classes and Function Implemntation in Flask]()|
-| 83  |  [Message Flashing, File Uploading, Extension]()|
-| 84  |  [Flask Mail, WTF, Sijax]()|
-| 85  |  [Working With API]()|
-| 86  |  [Flask Deployment and FastCGI]()|
+| 76  |  [Introduction To Flask]()|
+| 77  |  [Application Structure and Setup]()|
+| 78  |  [Templates and Static Files]()|
+| 79  |  [URL Routing,Accessing Request Data and Responces]()|
+| 80  |  [Working with Database]()|
+| 81  |  [Cookies and Sessions]()|
+| 82  |  [Redirecting and errors,Error Handling in Flask]()|
+| 83  |  [Classes and Function Implemntation in Flask]()|
+| 84  |  [Message Flashing, File Uploading, Extension]()|
+| 85  |  [Flask Mail, WTF, Sijax]()|
+| 86  |  [Working With API]()|
+| 87  |  [Flask Deployment and FastCGI]()|
 |   |  **Django** |
-| 87  |       [Django Web Framework (Python): Introduction]()|
-| 88  |       [Setting up a Django development environment]()|
-| 89  |       [The Local Library website]()|
-| 90  |       [Creating a skeleton website]()|
-| 91  |       [Using models]()|
-| 92  |       [Django admin site]()|
-| 93  |       [Creating home page]()|
-| 94  |       [Generic list and detail views]()|
-| 95  |       [Sessions framework]()|
-| 96  |       [User authentication and permissions]()|
-| 97  |       [Working with forms]()|
-| 98  |       [Testing a Django web application]()|
-| 99  |       [Deploying Django to production]()|
-| 100  |       [Django web application security]()|
+| 88  |       [Django Web Framework (Python): Introduction]()|
+| 89  |       [Setting up a Django development environment]()|
+| 90  |       [The Local Library website]()|
+| 91  |       [Creating a skeleton website]()|
+| 92  |       [Using models]()|
+| 93  |       [Django admin site]()|
+| 94  |       [Creating home page]()|
+| 95  |       [Generic list and detail views]()|
+| 96  |       [Sessions framework]()|
+| 97  |       [User authentication and permissions]()|
+| 98  |       [Working with forms]()|
+| 99  |       [Testing a Django web application]()|
+| 100  |       [Deploying Django to production]()|
+| 101  |       [Django web application security]()|
 | 🚩  |  Deployment and Web Hosting|
-| 101  |       [Deployment Overview]()|
-| 102  |       [AWS]()|
+| 102  |       [Deployment Overview]()|
+| 103  |       [AWS]()|
 | 104  |       [Azure]()|
 | 105  |       [GCP]()|
 | 106  |       [web-Hosting:Render, Heroku]()|
@@ -154,7 +153,7 @@ Start Learning 🚀
 
 ![awesome python course](./images/01.jpg)
 
-## Introduction
+## Introduction to Python 
 > Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
 
 This Awesome Python Course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course you will find yourself to be more confidence and experience in python. 
@@ -428,6 +427,18 @@ Now the Project Folder will Opened with python file `main.py` initially it will 
 # Virtual Environment
 In Python, a virtual environment is a self-contained directory that contains a specific version of the Python interpreter and a set of packages and libraries. Virtual environments are used to isolate Python projects from one another, ensuring that each project has its own dependencies without interfering with the system-wide Python installation. This is particularly useful when working on multiple projects with different package requirements or when you need to manage dependencies for a project.
 
+let us understand by a Scenario,
+
+**Scenario:** Developing Multiple Web Applications with Different Django Versions
+
+Imagine you are a web developer working on two separate web applications, both built using the Django web framework. However, each of these applications requires a different version of Django due to specific compatibility and feature requirements.
+
+**Project A:** This is a web application that relies on Django 2.1. It was started a couple of years ago, and upgrading to a newer Django version would require extensive code changes and testing.
+
+**Project B:** This is a new project you're working on, and you want to use the latest version of Django (let's say Django 4.0) to take advantage of its new features and improvements.
+
+In this scenario, using Python virtual environments is essential
+
 ### Why to Use Virtual Environments?
 
 1. **Isolation:** Virtual environments allow you to isolate project-specific dependencies from the system-wide Python installation, preventing conflicts.
@@ -516,4 +527,6 @@ Most integrated development environments (IDEs) have built-in support for virtua
 
 * **Cleaning Up:**
 To remove a virtual environment, simply delete its directory. Be cautious when doing this, as it will permanently delete all the packages and libraries installed within that environment.
+
+# 
 
