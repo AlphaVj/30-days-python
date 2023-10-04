@@ -430,31 +430,49 @@ In Python, a virtual environment is a self-contained directory that contains a s
 
 ### Why to Use Virtual Environments?
 
-**Isolation:** Virtual environments allow you to isolate project-specific dependencies from the system-wide Python installation, preventing conflicts.
+1. **Isolation:** Virtual environments allow you to isolate project-specific dependencies from the system-wide Python installation, preventing conflicts.
 
-**Dependency Management:** You can manage the packages and libraries required for a particular project separately from others.
+2. **Dependency Management:** You can manage the packages and libraries required for a particular project separately from others.
 
-**Version Control:** Virtual environments enable you to specify the exact version of Python and packages for your project, making it easier to reproduce the environment on different machines.
+3. **Version Control:** Virtual environments enable you to specify the exact version of Python and packages for your project, making it easier to reproduce the environment on different machines.
 
 ### Creating a Virtual Environment:
 You can create a virtual environment using the built-in venv module (available in Python 3.3 and later) or by using third-party tools like virtualenv.
+**Step 1: Open a command prompt or Vscode Terminal.**
 
-**Using `venv`:**
+**Step 2: Set the cmd Path to your Project Folder using `cd /d path` command.**
+
+**Step 3: Type the command `pip install virtualenv` and enter it, wait for the vnev package to install.**
+
+**Step 4: Enter the below command to create a Virtual Environment.**
+
+Here, myvenv is the folder in which a new Python virtual environment will be created 
+
 ```py
 python -m venv myenv
 ```
-Using virtualenv (if not installed, you can install it with pip):
+![create](./images/VE1.png)
+
+Also you can create the Virtual Environment using
 ```py
 virtualenv myenv
 ```
+![create](./images/VE2.png)
+the created myenv folder contains the following utilities
+![folder](./images/VE%20files.png)
+
 ### Activating a Virtual Environment:
 To activate a virtual environment, you use the appropriate command based on your operating system:
+
+To enable this new virtual environment, execute activate.bat in Scripts folder.
+
+![script](./images/VE-script.png)
 
 **On Windows:**
 ```py
 myenv\Scripts\activate
-
 ```
+![cmd](./images/VE3.png)
 **On macOS and Linux:**
 ```py
 source myenv/bin/activate
@@ -473,6 +491,8 @@ To deactivate a virtual environment and return to the system-wide Python install
 ```py
 deactivate
 ```
+![deactivate](./images/VE4.png)
+
 ### Managing Environment Dependencies:
 You can list all installed packages and their versions in your virtual environment using:
 
@@ -481,8 +501,10 @@ pip list
 ```
 You can also export the list of dependencies to a text file for easy sharing and environment replication:
 
+To start with project, it would be better to have a virtual environment. Virtual environment can help us to create an isolated or separate environment. This will help us to avoid conflicts in dependencies across projects. If you write pip freeze on your terminal you will see all the installed packages on your computer. If we use virtualenv, we will access only packages which are specific for that project. Open your terminal and install virtualenv
+
 ```py
-pip install -r requirements.txt
+pip freeze > requirements.txt
 ```
 **To install dependencies from a requirements file in a new virtual environment, you can use:**
 
@@ -494,3 +516,4 @@ Most integrated development environments (IDEs) have built-in support for virtua
 
 * **Cleaning Up:**
 To remove a virtual environment, simply delete its directory. Be cautious when doing this, as it will permanently delete all the packages and libraries installed within that environment.
+
