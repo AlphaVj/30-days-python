@@ -141,7 +141,7 @@ _________________________________________________________________________
 
 <h1>Awesome Python Course: Beginner's Module - 01.Introduction to Python </h1>
 
-[<a href="https://www.linkedin.com/in/vijay-anand-b-732075294" target="_blank"><img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" /></a>](https://www.linkedin.com/in/vijay-anand-b-732075294)
+<a href="https://www.linkedin.com/in/vijay-anand-b-732075294" target="_blank"><img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" /></a>
 [<img alt="Instagram profile" width="30px" src="./images/instagram.png" target='_blank' />](https://www.instagram.com/spidy_152003?utm_source=qr)
 
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
