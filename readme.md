@@ -186,12 +186,12 @@ _________________________________________________________________________
    - [Data types in Python](#data-types-in-python)
      - [Numbers](#number)
      - [Python Sequence Data Types](#python-sequence-data-type)  
-# [Introduction](./readme.md) 
+# [Introduction](#awesome-python-course-beginners-to-advance) 
 > Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
 
 This Awesome Python Course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course you will find yourself to be more confidence and experience in python. 
 
-# [What is Python?](./readme.md)
+# [What is Python?](#awesome-python-course-beginners-to-advance)
 Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).
 * **High-level:** Python is considered a high-level programming language because it abstracts many low-level details, such as memory management and hardware-specific operations, away from the programmer. This abstraction allows developers to focus more on solving problems and writing code that is easier to read and maintain. High-level languages are designed to be user-friendly and provide a high level of abstraction from the underlying hardware.
 
