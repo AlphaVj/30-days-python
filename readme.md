@@ -6,7 +6,7 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [<b>Introduction to Python</b>](#what-is-python)|
+| 01  |  [<b>Introduction to Python</b>](#introduction)|
 | 02  |  [<b>Reserved keywords, Variables, Expressions</b>](/Docs/Beginner%20module/2/2.md)|
 | 03  |  [<b>Operators</b>]()|
 | 04  |  [<b>Conditional Statements and Recursion</b>]()|
@@ -149,7 +149,7 @@ _________________________________________________________________________
 
 
 
-[<h4>Next 02 <img alt='next' width='30px' src="./images/right-arrow.png"></h4>](/Docs/Beginner%20module/2/2.md)
+[Next ⇨ 02](./Docs/Beginner%20module/2/2.md)
 
 <br>
 
@@ -697,7 +697,7 @@ Examples:
 {'name': 'vijay','age':20, 'dept': 'CSE'}
 ```
 
-[Next⇨02](./Docs/Beginner%20module/2/2.md)
+[Next ⇨ 02](./Docs/Beginner%20module/2/2.md)
 
 
 
