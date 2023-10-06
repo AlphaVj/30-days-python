@@ -147,7 +147,9 @@ _________________________________________________________________________
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
 </div>
 
-<a href='/Docs/Beginner module/2/2.md><button height='7vh' width='20vh'>Next 02 ⇨</button></a>
+
+
+[<h4 display="inline">Next 02 </h4><img alt='next' width='30px' src="./images/right-arrow.png">](/Docs/Beginner%20module/2/2.md)
 
 <br>
 
