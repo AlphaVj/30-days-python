@@ -6,7 +6,7 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction to Python](#start-learning-🚀)|
+| 01  |  [<span style="color:white; ">Introduction to Python</span>](#start-learning-🚀)|
 | 02  |  [Reserved keywords, Variables, Expressions]()|
 | 03  |  [Operators]()|
 | 04  |  [Conditional Statements and Recursion]()|
@@ -141,8 +141,8 @@ _________________________________________________________________________
 
 <h1>Awesome Python Course: Beginner's Module - 01.Introduction to Python </h1>
 
-[<img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" />](https://www.linkedin.com/in/vijay-anand-b-732075294)
-[<img alt="Instagram profile" width="30px" src="./images/instagram.png" />](https://www.instagram.com/spidy_152003?utm_source=qr)
+[<img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" target='_blank'/>](https://www.linkedin.com/in/vijay-anand-b-732075294)
+[<img alt="Instagram profile" width="30px" src="./images/instagram.png" target='_blank' />](https://www.instagram.com/spidy_152003?utm_source=qr)
 
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
 </div>
@@ -483,6 +483,7 @@ In this scenario, using Python virtual environments is essential
 
 ## Creating a Virtual Environment:
 You can create a virtual environment using the built-in venv module (available in Python 3.3 and later) or by using third-party tools like virtualenv.
+
 **Step 1: Open a command prompt or Vscode Terminal.**
 
 **Step 2: Set the cmd Path to your Project Folder using `cd /d path` command.**
@@ -601,41 +602,44 @@ Python has various built-in data types :
 ## Number
 * **Integer:**
 
-Any representation involving only the digit symbols (0 to 9) creates an object of int type. The object so declared may be referred by a variable using an assignment operator.
+      Any representation involving only the digit symbols (0 to 9) creates an object of int type. The object so declared may be referred by a variable using an assignment operator.
 
- Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
+      Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
 
 * **Float:**
 
-A floating point number consists of an integral part and a fractional part. Conventionally, a decimal point symbol (.) separates these two parts in a literal representation of a float.
+      A floating point number consists of an integral part and a fractional part. Conventionally, a decimal point symbol (.) separates these two parts in a literal representation of a float.
 
-Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
+      Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
 
 * **Complex Numbers:**
 
-A complex number comprises of a real and imaginary component. The imaginary component is any number (integer or floating point) multiplied by square root of "-1"
+      A complex number comprises of a real and imaginary component. The imaginary component is any number (integer or floating point) multiplied by square root of "-1"
 
- Example 2 + 4j, -1 + 2j
+      Example 2 + 4j, -1 + 2j
 
-**Booleans**
-A boolean data type is consist of two values, that is 
-* True
-* False 
-the starting letter T and F should be always uppercase.
+* **Booleans**
 
-> **In Python, the boolean data type represents two values: True and False. Booleans are often used for making logical decisions and controlling the flow of a program through conditional statements like if, else, and while. They are fundamental for expressing and evaluating logical expressions.**
+      A boolean data type is consist of two values, that is 
+      * True
+      * False 
+      the starting letter T and F should be always uppercase.
+
+      > **In Python, the boolean data type represents two values: True and False. Booleans are often used for making logical decisions and controlling the flow of a program through conditional statements like if, else, and while. They are fundamental for expressing and evaluating logical expressions.**
 
 
 
   
 ## Python Sequence Data Type
+
 > Python sequences are bounded and iterable - Whenever we say an iterable in Python, it means a sequence data type (for example, a list).
+
 **String**
-A collection of one or more characters under a single or double quote. If a string is more than one sentence then we use a triple quote.
+   A collection of one or more characters under a single or double quote. If a string is more than one sentence then we use a triple quote.
 
-A string object is one of the sequence data types in Python. It is an immutable sequence of Unicode code points. Code point is a number corresponding to a character according to Unicode standard. Strings are objects of Python's built-in class 'str'.
+   A string object is one of the sequence data types in Python. It is an immutable sequence of Unicode code points. Code point is a number corresponding to a character according to Unicode standard. Strings are objects of Python's built-in class 'str'.
 
-String literals are written by enclosing a sequence of characters in single quotes ('hello'), double quotes ("hello") or triple quotes ('''hello''' or """hello""").
+   String literals are written by enclosing a sequence of characters in single quotes ('hello'), double quotes ("hello") or triple quotes ('''hello''' or """hello""").
 Example:
 
 ```py
@@ -647,9 +651,9 @@ after the completion of this Course '''
 ```
 **List**
 
-List object in Python is a collection of objects of other data type. List is an ordered collection of items not necessarily of same type. Individual object in the collection is accessed by index starting with zero.
+   List object in Python is a collection of objects of other data type. List is an ordered collection of items not necessarily of same type. Individual object in the collection is accessed by index starting with zero.
 
-Literal representation of a list object is done with one or more items which are separated by comma and enclosed in square brackets [].
+   Literal representation of a list object is done with one or more items which are separated by comma and enclosed in square brackets [].
 
 
 Examples:
@@ -674,18 +678,18 @@ Examples:
 ```
 **Set**
 
-Set is a Python implementation of set as defined in Mathematics. A set in Python is a collection, but is not an indexed or ordered collection as string, list or tuple. An object cannot appear more than once in a set, whereas in List and Tuple, same object can appear more than once.
+   Set is a Python implementation of set as defined in Mathematics. A set in Python is a collection, but is not an indexed or ordered collection as string, list or tuple. An object cannot appear more than once in a set, whereas in List and Tuple, same object can appear more than once.
 
-Comma separated items in a set are put inside curly brackets or braces {}. Items in the set collection can be of different data types.
+   Comma separated items in a set are put inside curly brackets or braces {}. Items in the set collection can be of different data types.
 ```py
 {2023, "Python", 3.11, 5+6j, 1.23E-4}
 {(5+6j), 3.11, 0.000123, 'Python', 2023}
 ```
 **Dictionary**
 
-Python dictionaries are kind of hash table type. A dictionary key can be almost any Python type, but are usually numbers or strings. Values, on the other hand, can be any arbitrary Python object.
+   Python dictionaries are kind of hash table type. A dictionary key can be almost any Python type, but are usually numbers or strings. Values, on the other hand, can be any arbitrary Python object.
 
-Python dictionary is like associative arrays or hashes found in Perl and consist of key:value pairs. The pairs are separated by comma and put inside curly brackets {}. To establish mapping between key and value, the semicolon':' symbol is put between the two.
+   Python dictionary is like associative arrays or hashes found in Perl and consist of key:value pairs. The pairs are separated by comma and put inside curly brackets {}. To establish mapping between key and value, the semicolon':' symbol is put between the two.
 
 ```py
 {'name': 'vijay','age':20, 'dept': 'CSE'}
