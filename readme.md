@@ -7,25 +7,25 @@ _________________________________________________________________________
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
 | 01  |  [<b>Introduction to Python</b>](#start-learning-🚀)|
-| 02  |  [Reserved keywords, Variables, Expressions]()|
-| 03  |  [Operators]()|
-| 04  |  [Conditional Statements and Recursion]()|
-| 05  |  [Looping Statements]()|
-| 06  |  [Number System and Conversions]()|
-| 07  |  [String]()|
-| 08  |  [List]()|
-| 09  |  [Tuple]()|
-| 10  |  [Dictionary]()|
-| 11  |  [Set]()|
-| 12  |  [Functions]()|
-| 13  |  [List Comprehension]()|
-| 14  |  [Python package Manager - PIP]()|
-| 15  |  [Modules]()|
-| 16  |  [Arrays]()|
-| 17  |  [Higher Order Functions]()|
-| 18  |  [File Handling in Python]()|
-| 19  |  [Python Date and Time]()|
-| 20  |  [Regular Expression]()|
+| 02  |  [<b>Reserved keywords, Variables, Expressions</b>]()|
+| 03  |  [<b>Operators</b>]()|
+| 04  |  [<b>Conditional Statements and Recursion</b>]()|
+| 05  |  [<b>Looping Statements</b>]()|
+| 06  |  [<b>Number System and Conversions</b>]()|
+| 07  |  [<b>String</b>]()|
+| 08  |  [<b>List</b>]()|
+| 09  |  [<b>Tuple</b>]()|
+| 10  |  [<b>Dictionary</b>]()|
+| 11  |  [<b>Set</b>]()|
+| 12  |  [<b>Functions</b>]()|
+| 13  |  [<b>List Comprehension</b>]()|
+| 14  |  [<b>Python package Manager - PIP</b>]()|
+| 15  |  [<b>Modules</b>]()|
+| 16  |  [<b>Arrays</b>]()|
+| 17  |  [<b>Higher Order Functions</b>]()|
+| 18  |  [<b>File Handling in Python</b>]()|
+| 19  |  [<b>Python Date and Time</b>]()|
+| 20  |  [<b>Regular Expression</b>]()|
 
 
 ________________________________________________________________________
@@ -35,43 +35,43 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 21  |  [Object Oriented Programming in Python]()|
-| 22  |  [Errors and Exception Handling in Python]()|
-| 23  |  [Multithreading in Python]()|
-| 24  |  [Python synchronization]()|
-| 25  |  [Networking and Security Programming With Python]()|
-| 26  |  [Python GUI Programming]()|
-| 27  |  [XML Processing in Python]()|
-| 🚩  |  Programming With External Libraries|
-| 28  |  [OS Module]()|
-| 29  |  [Sending Email - smptlib ]()|
-| 30  |  [wikipedia module]()|
-| 31  |  [Web Scraping]()|
-| 32  |  [Text to Speech Synthesis - pyttsx3, gTTS, CoquiTTS, Larynx]()|
-| 33  |  [Speech Recognition - SpeechRecognition, google-cloud-speech,]()|
-| 34  |  [Language Transulator - googletrans]()|
-| 35  |  [Internet Search Engine Modules]()|
-| 36  |  [JSON]()|
-| 37  |  [pygame, pyaztro]()|
-| 38  |  [Authentication in Python]()|
-| 39  |  [Geolocation - GPS Tracking]()|
-| 🚩  |  (DSA) Data Structure and Algorithms in Python|
-| 40  |  [DSA Introduction]()|
-| 41  |  [Data Structures part-1]()|
-| 42  |  [Data Structures part-2]()|
-| 43  |  [Tree Based DSA - 1]()|
-| 44  |  [Tree Based DSA - 2]()|
-| 45  |  [Graph Based DSA - 1]()|
-| 46  |  [Sorting and Searching Algorithms ]()|
-| 47  |  [Greedy Algorithms ]()|
-| 50  |  [Dynamic Programming]()|
-| 51  |  [Other Algorithms]()|
-| 🚩  |  Databases in Python|
-| 52  |  [Introduction To Database]()|
-| 53  |  [SQLite]()|
-| 54  |  [SQLAlchemy]()|
-| 55  |  [MySQL and PostgreSQL]()|
-| 56  |  [MongoDB]()|
+| 21  |  [<b>Object Oriented Programming in Python</b>]()|
+| 22  |  [<b>Errors and Exception Handling in Python</b>]()|
+| 23  |  [<b>Multithreading in Python</b>]()|
+| 24  |  [<b>Python synchronization</b>]()|
+| 25  |  [<b>Networking and Security Programming With Python</b>]()|
+| 26  |  [<b>Python GUI Programming</b>]()|
+| 27  |  [<b>XML Processing in Python</b>]()|
+| 🚩  | <b> Programming With External Libraries</b>|
+| 28  |  [<b>OS Module</b>]()|
+| 29  |  [<b>Sending Email - smptlib </b>]()|
+| 30  |  [<b>wikipedia module</b>]()|
+| 31  |  [<b>Web Scraping</b>]()|
+| 32  |  [<b>Text to Speech Synthesis - pyttsx3, gTTS, CoquiTTS, Larynx</b>]()|
+| 33  |  [<b>Speech Recognition - SpeechRecognition, google-cloud-speech </b>]()|
+| 34  |  [<b>Language Transulator - googletrans</b>]()|
+| 35  |  [<b>Internet Search Engine Modules</b>]()|
+| 36  |  [<b>JSON</b>]()|
+| 37  |  [<b>pygame, pyaztro</b>]()|
+| 38  |  [<b>Authentication in Python</b>]()|
+| 39  |  [<b>Geolocation - GPS Tracking</b>]()|
+| 🚩  |  <b>(DSA) Data Structure and Algorithms in Python</b>|
+| 40  |  [<b>DSA Introduction</b>]()|
+| 41  |  [<b>Data Structures part-1</b>]()|
+| 42  |  [<b>Data Structures part-2</b>]()|
+| 43  |  [<b>Tree Based DSA - 1</b>]()|
+| 44  |  [<b>Tree Based DSA - 2</b>]()|
+| 45  |  [<b>Graph Based DSA - 1</b>]()|
+| 46  |  [<b>Sorting and Searching Algorithms</b> ]()|
+| 47  |  [<b>Greedy Algorithms </b>]()|
+| 50  |  [<b>Dynamic Programming</b>]()|
+| 51  |  [<b>Other Algorithms</b>]()|
+| 🚩  |  <b>Databases in Python</b>|
+| 52  |  [<b>Introduction To Database</b>]()|
+| 53  |  [<b>SQLite</b>]()|
+| 54  |  [<b>SQLAlchemy</b>]()|
+| 55  |  [<b>MySQL and PostgreSQL</b>]()|
+| 56  |  [<b>MongoDB</b>]()|
 
 
 ________________________________________________________________________
@@ -81,61 +81,61 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 🚩  |  Data Science & Deep Learning |
-| 57  |  [Introduction to Data Science]()|
-| 58  |  [Pandas]()|
-| 59  |  [Numpy]()|
-| 60  |  [Data Processing]()|
-| 61  |  [Dta Visualization]()|
-| 62  |  [Statistical Data Analysis]()|
-| 63  |  [Machine Learning]()|
-| 64  |  [Feature Engineering]()|
-| 65  |  [OpenCV]()|
-| 66  |  [TensorFlow]()|
-| 67  |  [Keras and Pytorch]()|
-| 68  |  [Mathematics For Deep Learning]()|
-| 69  |  [Neural Networks Fundamentals]()|
-| 70  |  [Deep Learning Architectures]()|
-| 71  |  [Natural Language Processing]()|
-| 72  |  [Deep Learning Model Implementation]()|
-| 73  |  [Practical Deep Learning Projects]()|
-| 🚩  |  Python Web Development|
-| 74  |  [Introduction to Python Web Development - Web Basics]()|
-| 75  |  [Virtual Environment](#virtual-environment)|
+| 🚩  | <b> Data Science & Deep Learning </b>|
+| 57  |  [<b>Introduction to Data Science</b>]()|
+| 58  |  [<b>Pandas</b>]()|
+| 59  |  [<b>Numpy</b>]()|
+| 60  |  [<b>Data Processing</b>]()|
+| 61  |  [<b>Dta Visualization</b>]()|
+| 62  |  [<b>Statistical Data Analysis</b>]()|
+| 63  |  [<b>Machine Learning</b>]()|
+| 64  |  [<b>Feature Engineering</b>]()|
+| 65  |  [<b>OpenCV</b>]()|
+| 66  |  [<b>TensorFlow</b>]()|
+| 67  |  [<b>Keras and Pytorch</b>]()|
+| 68  |  [<b>Mathematics For Deep Learning</b>]()|
+| 69  |  [<b>Neural Networks Fundamentals</b>]()|
+| 70  |  [<b>Deep Learning Architectures</b>]()|
+| 71  |  [<b>Natural Language Processing</b>]()|
+| 72  |  [<b>Deep Learning Model Implementation</b>]()|
+| 73  |  [<b>Practical Deep Learning Projects</b>]()|
+| 🚩  |  <b>Python Web Development</b>|
+| 74  |  [<b>Introduction to Python Web Development - Web Basics</b>]()|
+| 75  |  [<b>Virtual Environment</b>](#virtual-environment)|
 |   |  **FLASK** |
-| 76  |  [Introduction To Flask]()|
-| 77  |  [Application Structure and Setup]()|
-| 78  |  [Templates and Static Files]()|
-| 79  |  [URL Routing,Accessing Request Data and Responces]()|
-| 80  |  [Working with Database]()|
-| 81  |  [Cookies and Sessions]()|
-| 82  |  [Redirecting and errors,Error Handling in Flask]()|
-| 83  |  [Classes and Function Implemntation in Flask]()|
-| 84  |  [Message Flashing, File Uploading, Extension]()|
-| 85  |  [Flask Mail, WTF, Sijax]()|
-| 86  |  [Working With API]()|
-| 87  |  [Flask Deployment and FastCGI]()|
+| 76  |  [<b>Introduction To Flask</b>]()|
+| 77  |  [<b>Application Structure and Setup</b>]()|
+| 78  |  [<b>Templates and Static Files</b>]()|
+| 79  |  [<b>URL Routing,Accessing Request Data and Responces</b>]()|
+| 80  |  [<b>Working with Database</b>]()|
+| 81  |  [<b>Cookies and Sessions</b>]()|
+| 82  |  [<b>Redirecting and errors,Error Handling in Flask</b>]()|
+| 83  |  [<b>Classes and Function Implemntation in Flask</b>]()|
+| 84  |  [<b>Message Flashing, File Uploading, Extension</b>]()|
+| 85  |  [<b>Flask Mail, WTF, Sijax</b>]()|
+| 86  |  [<b>Working With API</b>]()|
+| 87  |  [<b>Flask Deployment and FastCGI</b>]()|
 |   |  **Django** |
-| 88  |       [Django Web Framework (Python): Introduction]()|
-| 89  |       [Setting up a Django development environment]()|
-| 90  |       [The Local Library website]()|
-| 91  |       [Creating a skeleton website]()|
-| 92  |       [Using models]()|
-| 93  |       [Django admin site]()|
-| 94  |       [Creating home page]()|
-| 95  |       [Generic list and detail views]()|
-| 96  |       [Sessions framework]()|
-| 97  |       [User authentication and permissions]()|
-| 98  |       [Working with forms]()|
-| 99  |       [Testing a Django web application]()|
-| 100  |       [Deploying Django to production]()|
-| 101  |       [Django web application security]()|
-| 🚩  |  Deployment and Web Hosting|
-| 102  |       [Deployment Overview]()|
-| 103  |       [AWS]()|
-| 104  |       [Azure]()|
-| 105  |       [GCP]()|
-| 106  |       [web-Hosting:Render, Heroku]()|
+| 88  |       [<b>Django Web Framework (Python): Introduction</b>]()|
+| 89  |       [<b>Setting up a Django development environment</b>]()|
+| 90  |       [<b>The Local Library website</b>]()|
+| 91  |       [<b>Creating a skeleton website</b>]()|
+| 92  |       [<b>Using models</b>]()|
+| 93  |       [<b>Django admin site</b>]()|
+| 94  |       [<b>Creating home page</b>]()|
+| 95  |       [<b>Generic list and detail views</b>]()|
+| 96  |       [<b>Sessions framework</b>]()|
+| 97  |       [<b>User authentication and permissions</b>]()|
+| 98  |       [<b>Working with forms</b>]()|
+| 99  |       [<b>Testing a Django web application</b>]()|
+| 100  |       [<b>Deploying Django to production</b>]()|
+| 101  |       [<b>Django web application security</b>]()|
+| 🚩  |  <b>Deployment and Web Hosting</b>|
+| 102  |       [<b>Deployment Overview</b>]()|
+| 103  |       [<b>AWS</b>]()|
+| 104  |       [<b>Azure</b>]()|
+| 105  |       [<b>GCP</b>]()|
+| 106  |       [<b>web-Hosting:Render, Heroku</b>]()|
 
 ## Start Learning 🚀
 
