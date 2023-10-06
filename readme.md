@@ -6,8 +6,8 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [<b>Introduction to Python</b>](##start-learning-🚀)|
-| 02  |  [<b>Reserved keywords, Variables, Expressions</b>]()|
+| 01  |  [<b>Introduction to Python</b>](#what-is-python)|
+| 02  |  [<b>Reserved keywords, Variables, Expressions</b>](/Docs/Beginner%20module/2/2.md)|
 | 03  |  [<b>Operators</b>]()|
 | 04  |  [<b>Conditional Statements and Recursion</b>]()|
 | 05  |  [<b>Looping Statements</b>]()|
@@ -141,7 +141,7 @@ _________________________________________________________________________
 
 <h1>Awesome Python Course: Beginner's Module - 01.Introduction to Python </h1>
 
-<a href="https://www.linkedin.com/in/vijay-anand-b-732075294" target="_blank"><img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" /></a>
+[<img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" target='_blank'/>](https://www.linkedin.com/in/vijay-anand-b-732075294)
 [<img alt="Instagram profile" width="30px" src="./images/instagram.png" target='_blank' />](https://www.instagram.com/spidy_152003?utm_source=qr)
 
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
