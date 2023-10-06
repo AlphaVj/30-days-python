@@ -6,7 +6,7 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [Introduction to Python](#start-learning-🚀)|
+| 01  |  [Introduction to Python](#introduction)|
 | 02  |  [Reserved keywords, Variables, Expressions]()|
 | 03  |  [Operators]()|
 | 04  |  [Conditional Statements and Recursion]()|
@@ -137,7 +137,7 @@ _________________________________________________________________________
 | 105  |       [GCP]()|
 | 106  |       [web-Hosting:Render, Heroku]()|
 
-## Start Learning 🚀
+Start Learning 🚀
 
 <h1>Awesome Python Course: Beginner's Module - 01.Introduction to Python </h1>
 
@@ -153,43 +153,12 @@ _________________________________________________________________________
 
 ![awesome python course](./images/01.jpg)
 
-- [Awesome Python Course](#awesome-python-course-beginners-to-advance)
- - [Introduction to Python](#introduction)
-   - [Introduction](#introduction)
-   - [What is Python](#what-is-python)
-   - [Why to Learn Python](#why-to-learn-python)
-   - [Pythonic Code Style](#pythonic-code-style)
-   - [Compiler](#compiler)
-   - [What is Interpreter](#what-is-interpreter)
-   - [Environment Setup](#environment-setup)
-     - [Installing Python On Windows](#installing-python-on-windows)
-     - [Python Shell](#python-shell)
-       - [Interactive Mode](#interactive-mode)
-       - [Script Mode](#script-mode)
-     - [Python in Windows Command Prompt](#python-in-windows-command-prompt)
-     - [Installing Python on Ubuntu](#installing-python-on-ubuntu)
-       - [Installing Python in Ubuntu From Official Repository](#install-python-in-ubuntu-from-official-repository)
-     - [Working with Code Editors](#working-with-code-editors)
-       - [Install and Setup VScode Editor](#install-and-setup-vscode-editor)
-       - [How To Download and Install Pycharm IDE](#how-to-download-and-install-pycharm-ide)
-   - [Virtual Environment](#virtual-environment)
-     - [Why to use Virtual Environment](#why-to-use-virtual-environments)
-     - [creating a Virtual Environment](#creating-a-virtual-environment) 
-     - [Activating a Virtual Environment](#activating-a-virtual-environment)
-       - [Installing Packages](#installing-packages)
-     - [Deactivating a Virtual Environment](#deactivating-a-virtual-environment)
-     - [Managing Environment Dependencies](#managing-environment-dependencies)
-   - [Python Syntax](#python-syntax)
-   - [Python Indentation](#python-indentation)
-   - [Data types in Python](#data-types-in-python)
-     - [Numbers](#number)
-     - [Python Sequence Data Types](#python-sequence-data-type)  
-# Introduction 
+## Introduction to Python 
 > Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
 
 This Awesome Python Course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course you will find yourself to be more confidence and experience in python. 
 
-# What is Python?
+## What is Python?
 Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).
 * **High-level:** Python is considered a high-level programming language because it abstracts many low-level details, such as memory management and hardware-specific operations, away from the programmer. This abstraction allows developers to focus more on solving problems and writing code that is easier to read and maintain. High-level languages are designed to be user-friendly and provide a high level of abstraction from the underlying hardware.
 
@@ -197,7 +166,7 @@ Python is a very popular general-purpose interpreted, interactive, object-orient
 
 > Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation.
 
-# Why to Learn Python?
+## Why to Learn Python?
 Python is a popular programming language for several compelling reasons, making it a preferred choice for a wide range of applications. Here are some of the key reasons why Python is a great language to learn and use:
 
 **1) Readability and Simplicity:** Python's syntax is designed to be clean and readable, with a focus on human-friendly code. Its use of indentation for block structure forces clean and consistent code formatting, making it easier for developers to understand and maintain code.
@@ -224,7 +193,7 @@ Python is a popular programming language for several compelling reasons, making 
 
 **12) Job Opportunities:** Python is in high demand in the job market. Learning Python can open up career opportunities in various industries, including technology, finance, healthcare, and more.
 
-# Pythonic Code Style
+## Pythonic Code Style
 Python leaves you free to choose to program in an object-oriented, procedural, functional, aspect-oriented, or even logic-oriented way. These freedoms make Python a great language to write clean and beautiful code.
 
 **Pythonic Code Style is actually more of a design philosophy and suggests to write a code which is :**
@@ -262,7 +231,7 @@ To Run a Python Scripts first you need to Download and Install the Python Softwa
 
 
 
-## Installing Python on Windows
+### Installing Python on Windows
 
 **Step 1: Download the Full Installer**
 
@@ -283,8 +252,8 @@ next, run it by double-clicking on the downloaded file.
 
 **Step 4: Upgrade the Pip**
  Type this command `pip install --upgrade pip` to upgrade the pip
-## Python Shell
-
+### Python Shell
+-------------------------------
 Python's standard library has an executable module called IDLE – short for Integrated Development and Learning Environment. Find it from Window start menu and launch.
 
 python has two basic modes which are interactive mode and script mode
@@ -308,7 +277,7 @@ For script mode you will need to open a new file in File menu,a new python file 
 ![](./images/idle-script1.png)
 ![](./images/idle-script2.png)
 
-## Python in windows command prompt
+### Python in windows command prompt
 On your PC press windows key + R, a run pannel will appear in that type cmd and press enter,
 the command prompt will open,
 *  then type `python --version` and press enter to see the downloaded version of python in your system.
@@ -341,8 +310,8 @@ for example:
  ```
 
 
-## Installing Python on Ubuntu
-
+### Installing Python on Ubuntu
+--------------------------------
 **Check If Python is Already Installed on Ubuntu:**
 1. First, open Terminal using the “Alt + Ctrl + T” keyboard shortcut and run the below command. If the command gives an output with the version number, it means you already have Python installed in Ubuntu. To exit Python’s environment, press “Ctrl + D”. In case you get an error message like “Command not found”, you don’t have Python installed. So move to the next method to install it.
 ```shell
@@ -360,7 +329,7 @@ sudo apt --only-upgrade install python3
 ```
 ![upgrade](./images/python-ubuntu2.jpg)
 
-### Install Python in Ubuntu from Official Repository
+**Install Python in Ubuntu from Official Repository**
 Python is available in Ubuntu’s official repository, so you don’t have to do much other than execute a simple command to seamlessly install it on your system. Here is how to do it.
 
 1. Open Terminal in Ubuntu and run the below command to update all the packages and repositories.
@@ -398,10 +367,7 @@ if your python script file is in another disk/directory, use the command `python
  lenovo:~$ cd /home/username/Downloads
  lenovo:~$ python3 /home/username/Downloads/hello.py
  ```
- ## Working with code Editors:
-
- ### Install and Setup VScode Editor:
-
+ #### Working with code Editors:
  **How to Setup VScode For Python:**
  
 **Step 1: Download the latest version of VsCode From** https://code.visualstudio.com/download
@@ -435,7 +401,7 @@ ctrl + `
 
 #### How to Download and Install Pycharm IDE:
 -------------------------------------------
-**Code Editor:** PyCharm provides a powerful code editor with features like syntax highlighting, code completion, code analysis, and code navigation. It supports a wide range of Python versions. 
+Code Editor: PyCharm provides a powerful code editor with features like syntax highlighting, code completion, code analysis, and code navigation. It supports a wide range of Python versions. 
 
 Download the Pycharm Community Version From here https://www.jetbrains.com/pycharm/download/?section=windows
 
@@ -473,7 +439,7 @@ Imagine you are a web developer working on two separate web applications, both b
 
 In this scenario, using Python virtual environments is essential
 
-## Why to Use Virtual Environments?
+### Why to Use Virtual Environments?
 
 1. **Isolation:** Virtual environments allow you to isolate project-specific dependencies from the system-wide Python installation, preventing conflicts.
 
@@ -481,7 +447,7 @@ In this scenario, using Python virtual environments is essential
 
 3. **Version Control:** Virtual environments enable you to specify the exact version of Python and packages for your project, making it easier to reproduce the environment on different machines.
 
-## Creating a Virtual Environment:
+### Creating a Virtual Environment:
 You can create a virtual environment using the built-in venv module (available in Python 3.3 and later) or by using third-party tools like virtualenv.
 **Step 1: Open a command prompt or Vscode Terminal.**
 
@@ -506,7 +472,7 @@ virtualenv myenv
 the created myenv folder contains the following utilities
 ![folder](./images/VE%20files.png)
 
-## Activating a Virtual Environment:
+### Activating a Virtual Environment:
 To activate a virtual environment, you use the appropriate command based on your operating system:
 
 To enable this new virtual environment, execute activate.bat in Scripts folder.
@@ -530,7 +496,7 @@ With your virtual environment active, you can use pip to install packages specif
 ```py
  pip install package_name
 ```
-## Deactivating a Virtual Environment:
+### Deactivating a Virtual Environment:
 To deactivate a virtual environment and return to the system-wide Python installation, you can simply type:
 
 ```py
@@ -598,100 +564,28 @@ Python has various built-in data types :
 
 ![datatypes](./images/data%20types.png)
 
-## Number
-* **Integer:**
+### Number
+* **Integer:** Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
 
-Any representation involving only the digit symbols (0 to 9) creates an object of int type. The object so declared may be referred by a variable using an assignment operator.
+* **Float:** Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
 
- Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
-
-* **Float:**
-
-A floating point number consists of an integral part and a fractional part. Conventionally, a decimal point symbol (.) separates these two parts in a literal representation of a float.
-
-Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
-
-* **Complex Numbers:**
-
-A complex number comprises of a real and imaginary component. The imaginary component is any number (integer or floating point) multiplied by square root of "-1"
-
- Example 2 + 4j, -1 + 2j
-
-**Booleans**
-A boolean data type is consist of two values, that is 
-* True
-* False 
-the starting letter T and F should be always uppercase.
-
-> **In Python, the boolean data type represents two values: True and False. Booleans are often used for making logical decisions and controlling the flow of a program through conditional statements like if, else, and while. They are fundamental for expressing and evaluating logical expressions.**
-
-
-
-  
-## Python Sequence Data Type
+* **Complex Numbers:** Example 1 + j, 2 + 4j
+### Python Sequence Data Type
 > Python sequences are bounded and iterable - Whenever we say an iterable in Python, it means a sequence data type (for example, a list).
 **String**
 A collection of one or more characters under a single or double quote. If a string is more than one sentence then we use a triple quote.
 
-A string object is one of the sequence data types in Python. It is an immutable sequence of Unicode code points. Code point is a number corresponding to a character according to Unicode standard. Strings are objects of Python's built-in class 'str'.
-
-String literals are written by enclosing a sequence of characters in single quotes ('hello'), double quotes ("hello") or triple quotes ('''hello''' or """hello""").
 Example:
 
 ```py
 ' Awesome Python Course '
-" This is a Beginner's module"
-''' I hope you are getting lots of Python 
-knowledge and coding experience 
-after the completion of this Course '''
-```
-**List**
-
-List object in Python is a collection of objects of other data type. List is an ordered collection of items not necessarily of same type. Individual object in the collection is accessed by index starting with zero.
-
-Literal representation of a list object is done with one or more items which are separated by comma and enclosed in square brackets [].
-
-
-Examples:
-```py
-[20,'vijay',3.11,True,2+4j]
-['mon','tue','wed','thu','fri']
-[1,2,3,4,5]
-[True,False,False,True]
-```
-
-**Tuple**
-
-Tuple object in Python is a collection of objects of other data type. Tuple is an ordered collection of items not necessarily of same type. Individual object in the collection is accessed by index starting with zero.
-
-Literal representation of a tuple object is done with one or more items which are separated by comma and enclosed in parentheses ().
-
-Examples:
-
-```py
-('apple','orange','banana')
-(1,2,3,4,5)
-```
-**Set**
-
-Set is a Python implementation of set as defined in Mathematics. A set in Python is a collection, but is not an indexed or ordered collection as string, list or tuple. An object cannot appear more than once in a set, whereas in List and Tuple, same object can appear more than once.
-
-Comma separated items in a set are put inside curly brackets or braces {}. Items in the set collection can be of different data types.
-```py
-{2023, "Python", 3.11, 5+6j, 1.23E-4}
-{(5+6j), 3.11, 0.000123, 'Python', 2023}
-```
-**Dictionary**
-
-Python dictionaries are kind of hash table type. A dictionary key can be almost any Python type, but are usually numbers or strings. Values, on the other hand, can be any arbitrary Python object.
-
-Python dictionary is like associative arrays or hashes found in Perl and consist of key:value pairs. The pairs are separated by comma and put inside curly brackets {}. To establish mapping between key and value, the semicolon':' symbol is put between the two.
-
-```py
-{'name': 'vijay','age':20, 'dept': 'CSE'}
+" "
 ```
 
 [Next⇨02](./Docs/Beginner%20module/2/2.md)
+
+
+
 
 
 
