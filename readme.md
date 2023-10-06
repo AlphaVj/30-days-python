@@ -155,7 +155,7 @@ _________________________________________________________________________
 
 ![awesome python course](./images/01.jpg)
 
-- [Awesome Python Course](#awesome-python-course-beginners-to-advance)
+####  [Awesome Python Course - Table of Contents](#awesome-python-course-beginners-to-advance)
  - [Introduction to Python](#introduction)
    - [Introduction](#introduction)
    - [What is Python](#what-is-python)
@@ -186,12 +186,12 @@ _________________________________________________________________________
    - [Data types in Python](#data-types-in-python)
      - [Numbers](#number)
      - [Python Sequence Data Types](#python-sequence-data-type)  
-# [Introduction](#awesome-python-course-beginners-to-advance) 
+# [Introduction](#awesome-python-course---table-of-contents) 
 > Python is one of the most popular programming languages. Although it is a general-purpose language, it is used in various areas of applications such as Machine Learning, Artificial Intelligence, web development, IoT, and more.
 
 This Awesome Python Course has been written for the beginners to help them understand the basic to advanced concepts of Python Programming Language. After completing this course you will find yourself to be more confidence and experience in python. 
 
-# [What is Python?](#awesome-python-course-beginners-to-advance)
+# [What is Python?](#awesome-python-course---table-of-contents)
 Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).
 * **High-level:** Python is considered a high-level programming language because it abstracts many low-level details, such as memory management and hardware-specific operations, away from the programmer. This abstraction allows developers to focus more on solving problems and writing code that is easier to read and maintain. High-level languages are designed to be user-friendly and provide a high level of abstraction from the underlying hardware.
 
@@ -199,7 +199,7 @@ Python is a very popular general-purpose interpreted, interactive, object-orient
 
 > Python supports multiple programming paradigms, including Procedural, Object Oriented and Functional programming language. Python design philosophy emphasizes code readability with the use of significant indentation.
 
-# Why to Learn Python?
+# [Why to Learn Python?](#awesome-python-course---table-of-contents)
 Python is a popular programming language for several compelling reasons, making it a preferred choice for a wide range of applications. Here are some of the key reasons why Python is a great language to learn and use:
 
 **1) Readability and Simplicity:** Python's syntax is designed to be clean and readable, with a focus on human-friendly code. Its use of indentation for block structure forces clean and consistent code formatting, making it easier for developers to understand and maintain code.
@@ -226,7 +226,7 @@ Python is a popular programming language for several compelling reasons, making 
 
 **12) Job Opportunities:** Python is in high demand in the job market. Learning Python can open up career opportunities in various industries, including technology, finance, healthcare, and more.
 
-# Pythonic Code Style
+# [Pythonic Code Style](#awesome-python-course---table-of-contents)
 Python leaves you free to choose to program in an object-oriented, procedural, functional, aspect-oriented, or even logic-oriented way. These freedoms make Python a great language to write clean and beautiful code.
 
 **Pythonic Code Style is actually more of a design philosophy and suggests to write a code which is :**
@@ -242,14 +242,14 @@ Python leaves you free to choose to program in an object-oriented, procedural, f
 * Interpreter
 * Assembler
 
-# Compiler
+# [Compiler](#awesome-python-course---table-of-contents)
 > A compiler translates the entire source code written by a programmer into machine code or an intermediate code in a single step. This translation is done before execution. The resulting executable file can be run multiple times without needing to recompile, as the translation is already complete.
 
 > Compiled code is often platform-dependent. A program compiled for one architecture or operating system may not run on another without recompilation for the target platform.
 
 > **Compiler:** Languages like C, C++, Rust, and Go are typically compiled languages.
 
-# What is Interpreter ?
+# [What is Interpreter ?](#awesome-python-course---table-of-contents)
  > A python interpreter is a computer program that converts each high-level program statement into machine code. An interpreter translates the command that you write out into code that the computer can understand. 
 
  > An interpreter translates the source code line by line or statement by statement, executing each line immediately after translation. There is no separate compilation step, and the translation and execution are interleaved.
@@ -257,14 +257,14 @@ Python leaves you free to choose to program in an object-oriented, procedural, f
  > Interpreted languages are often more portable because the interpreter can be installed on various platforms, allowing the same source code to run on different systems without modification.
 
 > **Interpreter:** Languages like Python, JavaScript, Ruby, and PHP are typically interpreted languages.
-# Environment Setup
+# [Environment Setup](#awesome-python-course---table-of-contents)
 Python Interpreter is readily available for all leading Platforms (i.e Windows, ubuntu, MAC, unix, Palm Os, etc..)
 
 To Run a Python Scripts first you need to Download and Install the Python Software and Other Editors.
 
 
 
-## Installing Python on Windows
+## [Installing Python on Windows](#awesome-python-course---table-of-contents)
 
 **Step 1: Download the Full Installer**
 
@@ -285,13 +285,13 @@ next, run it by double-clicking on the downloaded file.
 
 **Step 4: Upgrade the Pip**
  Type this command `pip install --upgrade pip` to upgrade the pip
-## Python Shell
+## [Python Shell](#awesome-python-course---table-of-contents)
 
 Python's standard library has an executable module called IDLE – short for Integrated Development and Learning Environment. Find it from Window start menu and launch.
 
 python has two basic modes which are interactive mode and script mode
 
-#### Interactive Mode:
+#### [Interactive Mode:](#awesome-python-course---table-of-contents)
 The Python interactive shell is opened and it is waiting for you to write Python code(Python script). You will write your Python script next to this symbol >>> and then click Enter then it shows result in next line.
 
 Let us do some maths first before we write any Python code:
@@ -304,13 +304,13 @@ Let us do some maths first before we write any Python code:
 
 ![interactive mode](./images/idle-interactive.png)
 
-#### Script Mode
+#### [Script Mode](#awesome-python-course---table-of-contents)
 For script mode you will need to open a new file in File menu,a new python file will opened then type your python code and save it,afer that click 'run module' in run menu or simply press `F5` to Run the code, the output will shown on the idle shell.
 
 ![](./images/idle-script1.png)
 ![](./images/idle-script2.png)
 
-## Python in windows command prompt
+## [Python in windows command prompt](#awesome-python-course---table-of-contents)
 On your PC press windows key + R, a run pannel will appear in that type cmd and press enter,
 the command prompt will open,
 *  then type `python --version` and press enter to see the downloaded version of python in your system.
@@ -343,7 +343,7 @@ for example:
  ```
 
 
-## Installing Python on Ubuntu
+## [Installing Python on Ubuntu](#awesome-python-course---table-of-contents)
 
 **Check If Python is Already Installed on Ubuntu:**
 1. First, open Terminal using the “Alt + Ctrl + T” keyboard shortcut and run the below command. If the command gives an output with the version number, it means you already have Python installed in Ubuntu. To exit Python’s environment, press “Ctrl + D”. In case you get an error message like “Command not found”, you don’t have Python installed. So move to the next method to install it.
@@ -362,7 +362,7 @@ sudo apt --only-upgrade install python3
 ```
 ![upgrade](./images/python-ubuntu2.jpg)
 
-### Install Python in Ubuntu from Official Repository
+### [Install Python in Ubuntu from Official Repository](#awesome-python-course---table-of-contents)
 Python is available in Ubuntu’s official repository, so you don’t have to do much other than execute a simple command to seamlessly install it on your system. Here is how to do it.
 
 1. Open Terminal in Ubuntu and run the below command to update all the packages and repositories.
@@ -400,11 +400,11 @@ if your python script file is in another disk/directory, use the command `python
  lenovo:~$ cd /home/username/Downloads
  lenovo:~$ python3 /home/username/Downloads/hello.py
  ```
- ## Working with code Editors:
+ ## [Working with code Editors:](#awesome-python-course---table-of-contents)
 
- ### Install and Setup VScode Editor:
+ ### [Install and Setup VScode Editor:](#awesome-python-course---table-of-contents)
 
- **How to Setup VScode For Python:**
+ How to Setup VScode For Python:
  
 **Step 1: Download the latest version of VsCode From** https://code.visualstudio.com/download
 
@@ -435,7 +435,7 @@ ctrl + `
 ```
 ![terminal](./images/vscode%20terminal.png)
 
-#### How to Download and Install Pycharm IDE:
+#### [How to Download and Install Pycharm IDE:](#awesome-python-course---table-of-contents)
 -------------------------------------------
 **Code Editor:** PyCharm provides a powerful code editor with features like syntax highlighting, code completion, code analysis, and code navigation. It supports a wide range of Python versions. 
 
@@ -460,7 +460,7 @@ Now the Project Folder will Opened with python file `main.py` initially it will 
 ![start](./images/pycharm%20start.png)
 
 
-# Virtual Environment
+# [Virtual Environment](#awesome-python-course---table-of-contents)
 In Python, a virtual environment is a self-contained directory that contains a specific version of the Python interpreter and a set of packages and libraries. Virtual environments are used to isolate Python projects from one another, ensuring that each project has its own dependencies without interfering with the system-wide Python installation. This is particularly useful when working on multiple projects with different package requirements or when you need to manage dependencies for a project.
 
 let us understand by a Scenario,
@@ -475,7 +475,7 @@ Imagine you are a web developer working on two separate web applications, both b
 
 In this scenario, using Python virtual environments is essential
 
-## Why to Use Virtual Environments?
+## [Why to Use Virtual Environments?](#awesome-python-course---table-of-contents)
 
 1. **Isolation:** Virtual environments allow you to isolate project-specific dependencies from the system-wide Python installation, preventing conflicts.
 
@@ -483,7 +483,7 @@ In this scenario, using Python virtual environments is essential
 
 3. **Version Control:** Virtual environments enable you to specify the exact version of Python and packages for your project, making it easier to reproduce the environment on different machines.
 
-## Creating a Virtual Environment:
+## [Creating a Virtual Environment:](#awesome-python-course---table-of-contents)
 You can create a virtual environment using the built-in venv module (available in Python 3.3 and later) or by using third-party tools like virtualenv.
 
 **Step 1: Open a command prompt or Vscode Terminal.**
@@ -509,7 +509,7 @@ virtualenv myenv
 the created myenv folder contains the following utilities
 ![folder](./images/VE%20files.png)
 
-## Activating a Virtual Environment:
+## [Activating a Virtual Environment:](#awesome-python-course---table-of-contents)
 To activate a virtual environment, you use the appropriate command based on your operating system:
 
 To enable this new virtual environment, execute activate.bat in Scripts folder.
@@ -527,13 +527,13 @@ source myenv/bin/activate
 ```
 After activation, your terminal prompt should change to indicate the active virtual environment.
 
-### Installing Packages:
+### [Installing Packages:](#awesome-python-course---table-of-contents)
 With your virtual environment active, you can use pip to install packages specific to your project. **For example:**
 
 ```py
  pip install package_name
 ```
-## Deactivating a Virtual Environment:
+## [Deactivating a Virtual Environment:](#awesome-python-course---table-of-contents)
 To deactivate a virtual environment and return to the system-wide Python installation, you can simply type:
 
 ```py
@@ -541,7 +541,7 @@ deactivate
 ```
 ![deactivate](./images/VE4.png)
 
-### Managing Environment Dependencies:
+### [Managing Environment Dependencies:](#awesome-python-course---table-of-contents)
 You can list all installed packages and their versions in your virtual environment using:
 
 ```py
@@ -565,12 +565,12 @@ Most integrated development environments (IDEs) have built-in support for virtua
 * **Cleaning Up:**
 To remove a virtual environment, simply delete its directory. Be cautious when doing this, as it will permanently delete all the packages and libraries installed within that environment.
 
-# Python Syntax
+# [Python Syntax](#awesome-python-course---table-of-contents)
 The Python syntax defines a set of rules that are used to create a Python Program. The Python Programming Language Syntax has many similarities to Perl, C, and Java Programming Languages. However, there are some definite differences between the languages.
 
 Python is a Case sensitive Language so, all the Syntax athere to it. Because of the way it handles identifiers, such as variable names, function names, and class names. Case sensitivity means that Python treats uppercase and lowercase letters as distinct characters. 
 
-# Python Indentation
+# [Python Indentation](#awesome-python-course---table-of-contents)
 In Python, indentation is a fundamental aspect of the language's syntax and plays a crucial role in structuring your code. Unlike many other programming languages that use braces or other symbols to define code blocks, Python uses whitespace indentation to indicate the hierarchy and scope of code.
 
 **Whitespace Indentation:** Python uses spaces or tabs (whitespace) to define code blocks and nest statements within those blocks. Indentation is typically done using spaces, and the recommended standard is to use four spaces for each level of indentation. Mixing tabs and spaces is generally discouraged to maintain code consistency.
@@ -583,7 +583,7 @@ In Python, indentation is a fundamental aspect of the language's syntax and play
 
 Don't Worry about this we will see how the syntax and indentations are used, in all other topics.
 
-# Data Types in Python
+# [Data Types in Python](#awesome-python-course---table-of-contents)
 
 Data type represents a kind of value and determines what operations can be done on it. Numeric, non-numeric and Boolean (true/false) data are the most obvious data types. However, each programming language has its own classification largely reflecting its programming philosophy.
 
@@ -601,7 +601,7 @@ Python has various built-in data types :
 
 ![datatypes](./images/data%20types.png)
 
-## Number
+## [Number](#awesome-python-course---table-of-contents)
 * **Integer:**
 
       Any representation involving only the digit symbols (0 to 9) creates an object of int type. The object so declared may be referred by a variable using an assignment operator.
@@ -632,7 +632,7 @@ Python has various built-in data types :
 
 
   
-## Python Sequence Data Type
+## [Python Sequence Data Type](#awesome-python-course---table-of-contents)
 
 > Python sequences are bounded and iterable - Whenever we say an iterable in Python, it means a sequence data type (for example, a list).
 
