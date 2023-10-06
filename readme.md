@@ -341,9 +341,7 @@ for example:
  D:\> cd /d C:\Users\vijay\Downloads
  D:\> python C:\Users\vijay\Downloads\hello.py
  ```
-<video controls >
-  <source src="./images/overview-run.mp4" type="video/mp4">
-</video>
+![running python file](./images/Running%20python%20file.gif)
 
 ## [Installing Python on Ubuntu](#awesome-python-course---table-of-contents)
 
