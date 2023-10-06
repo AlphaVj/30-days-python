@@ -149,7 +149,7 @@ _________________________________________________________________________
 
 
 
-[<h4 display="inline">Next 02 </h4><img alt='next' width='30px' src="./images/right-arrow.png">](/Docs/Beginner%20module/2/2.md)
+[<h4>Next 02 <img alt='next' width='30px' src="./images/right-arrow.png"></h4>](/Docs/Beginner%20module/2/2.md)
 
 <br>
 
