@@ -6,7 +6,7 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [<b>Introduction to Python</b>](#start-learning-🚀)|
+| 01  |  [<b>Introduction to Python</b>](##start-learning-🚀)|
 | 02  |  [<b>Reserved keywords, Variables, Expressions</b>]()|
 | 03  |  [<b>Operators</b>]()|
 | 04  |  [<b>Conditional Statements and Recursion</b>]()|
@@ -141,13 +141,13 @@ _________________________________________________________________________
 
 <h1>Awesome Python Course: Beginner's Module - 01.Introduction to Python </h1>
 
-[<img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" target='_blank'/>](https://www.linkedin.com/in/vijay-anand-b-732075294)
+[<a href="https://www.linkedin.com/in/vijay-anand-b-732075294" target="_blank"><img alt="Instagram profile" width="30px" display="inline" src="./images/linkedin.png" /></a>](https://www.linkedin.com/in/vijay-anand-b-732075294)
 [<img alt="Instagram profile" width="30px" src="./images/instagram.png" target='_blank' />](https://www.instagram.com/spidy_152003?utm_source=qr)
 
 <p align='center'> Prepared by <strong>~ Vijay Anand </strong></p>
 </div>
 
-<a href='https://www.w3schools.com/howto/howto_css_round_buttons.asp'><button style='height:7vh; width:20vh; border-radius:30px; background-color:yellow;'>Next 02 ⇨</button></a>
+<a href='/Docs/Beginner module/2/2.md><button height='7vh' width='20vh'>Next 02 ⇨</button></a>
 
 <br>
 
