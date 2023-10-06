@@ -6,7 +6,7 @@ _________________________________________________________________________
 
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
-| 01  |  [<span style="color:white; ">Introduction to Python</span>](#start-learning-🚀)|
+| 01  |  [<b>Introduction to Python</b>](#start-learning-🚀)|
 | 02  |  [Reserved keywords, Variables, Expressions]()|
 | 03  |  [Operators]()|
 | 04  |  [Conditional Statements and Recursion]()|
