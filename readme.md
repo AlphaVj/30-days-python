@@ -7,7 +7,7 @@ _________________________________________________________________________
 | Sn.no |  Topics |
 |------|:---------------------------------------------------------:|
 | 01  |  [<b>Introduction to Python</b>](#awesome-python-course---table-of-contents)|
-| 02  |  [<b>Reserved keywords, Variables, Expressions</b>](/Docs/Beginner%20module/2/2.md)|
+| 02  |  [<b>Comments,Reserved keywords, Variables,</b>](/Docs/Beginner%20module/2/2.md)|
 | 03  |  [<b>Operators</b>]()|
 | 04  |  [<b>Conditional Statements and Recursion</b>]()|
 | 05  |  [<b>Looping Statements</b>]()|
@@ -18,7 +18,7 @@ _________________________________________________________________________
 | 10  |  [<b>Dictionary</b>]()|
 | 11  |  [<b>Set</b>]()|
 | 12  |  [<b>Functions</b>]()|
-| 13  |  [<b>List Comprehension</b>]()|
+| 13  |  [<b>Comprehensions in Python</b>]()|
 | 14  |  [<b>Python package Manager - PIP</b>]()|
 | 15  |  [<b>Modules</b>]()|
 | 16  |  [<b>Arrays</b>]()|
