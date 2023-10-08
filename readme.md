@@ -8,7 +8,7 @@ _________________________________________________________________________
 |------|:---------------------------------------------------------:|
 | 01  |  [<b>Introduction to Python</b>](#awesome-python-course---table-of-contents)|
 | 02  |  [<b>Comments,Reserved keywords, Variables,</b>](/Docs/Beginner%20module/2/2.md)|
-| 03  |  [<b>Operators</b>]()|
+| 03  |  [<b>Operators</b>](/Docs/Beginner%20module/3/3.md)|
 | 04  |  [<b>Conditional Statements and Recursion</b>]()|
 | 05  |  [<b>Looping Statements</b>]()|
 | 06  |  [<b>Number System and Conversions</b>]()|
@@ -202,29 +202,53 @@ Python is a very popular general-purpose interpreted, interactive, object-orient
 # [Why to Learn Python?](#awesome-python-course---table-of-contents)
 Python is a popular programming language for several compelling reasons, making it a preferred choice for a wide range of applications. Here are some of the key reasons why Python is a great language to learn and use:
 
-**1) Readability and Simplicity:** Python's syntax is designed to be clean and readable, with a focus on human-friendly code. Its use of indentation for block structure forces clean and consistent code formatting, making it easier for developers to understand and maintain code.
+**1) Readability and Simplicity:**
 
-**2) Versatility:** Python is a general-purpose programming language, meaning it can be used for almost any type of application or project. Whether you're interested in web development, data analysis, artificial intelligence, scientific computing, automation, or game development, Python has libraries and frameworks to support your needs.
+   Python's syntax is designed to be clean and readable, with a focus on human-friendly code. Its use of indentation for block structure forces clean and consistent code formatting, making it easier for developers to understand and maintain code.
 
-**3) Large Standard Library:** Python comes with an extensive standard library that includes modules and functions for common tasks, reducing the need to write code from scratch. This library simplifies various aspects of development, such as file handling, networking, and data manipulation.
+**2) Versatility:** 
 
-**4) Community and Documentation:** Python has a vast and active community of developers worldwide. This community contributes to the language's growth, provides extensive documentation, and offers support through forums, mailing lists, and online resources. This makes it easy to find solutions to common problems and learn from others.
+  Python is a general-purpose programming language, meaning it can be used for almost any type of application or project. Whether you're interested in web development, data analysis, artificial intelligence, scientific computing, automation, or game development, Python has libraries and frameworks to support your needs.
 
-**5) Cross-Platform Compatibility:** Python is available on multiple platforms, including Windows, macOS, and various Unix-like systems. Code written in Python is highly portable, allowing developers to create applications that work seamlessly across different operating systems.
+**3) Large Standard Library:**
 
-**6) Interpreted Language:** Python is an interpreted language, meaning you can write and execute code directly without the need for compilation. This results in quicker development cycles and easier debugging.
+  Python comes with an extensive standard library that includes modules and functions for common tasks, reducing the need to write code from scratch. This library simplifies various aspects of development, such as file handling, networking, and data manipulation.
 
-**7) Dynamic Typing:** Python is dynamically typed, which means you don't need to declare variable types explicitly. This dynamic typing makes the language flexible and allows for rapid prototyping and development.
+**4) Community and Documentation:** 
 
-**8) Open Source:** Python is open source and freely available, encouraging collaboration and innovation. Developers can contribute to the language's development, and this openness has led to the creation of numerous third-party libraries and frameworks.
+  Python has a vast and active community of developers worldwide. This community contributes to the language's growth, provides extensive documentation, and offers support through forums, mailing lists, and online resources. This makes it easy to find solutions to common problems and learn from others.
 
-**9) Data Science and Machine Learning:** Python is a dominant language in the fields of data science and machine learning. Libraries like NumPy, pandas, scikit-learn, and TensorFlow have made it the go-to language for data analysis and artificial intelligence projects.
+**5) Cross-Platform Compatibility:** 
 
-**10) Web Development:** Python offers powerful web development frameworks like Django and Flask, making it easy to build robust and scalable web applications.
+  Python is available on multiple platforms, including Windows, macOS, and various Unix-like systems. Code written in Python is highly portable, allowing developers to create applications that work seamlessly across different operating systems.
 
-**11) Automation and Scripting:** Python is often used for automation and scripting tasks due to its simplicity and ease of use. It's widely employed for tasks like data scraping, file manipulation, and system administration.
+**6) Interpreted Language:** 
 
-**12) Job Opportunities:** Python is in high demand in the job market. Learning Python can open up career opportunities in various industries, including technology, finance, healthcare, and more.
+  Python is an interpreted language, meaning you can write and execute code directly without the  need for compilation. This results in quicker development cycles and easier debugging.
+
+**7) Dynamic Typing:** 
+
+  Python is dynamically typed, which means you don't need to declare variable types explicitly. This dynamic typing makes the language flexible and allows for rapid prototyping and development.
+
+**8) Open Source:** 
+
+  Python is open source and freely available, encouraging collaboration and innovation. Developers can contribute to the language's development, and this openness has led to the creation of numerous third-party libraries and frameworks.
+
+**9) Data Science and Machine Learning:**
+
+   Python is a dominant language in the fields of data science and machine learning. Libraries like NumPy, pandas, scikit-learn, and TensorFlow have made it the go-to language for data analysis and artificial intelligence projects.
+
+**10) Web Development:** 
+
+  Python offers powerful web development frameworks like Django and Flask, making it easy to build robust and scalable web applications.
+
+**11) Automation and Scripting:**
+
+  Python is often used for automation and scripting tasks due to its simplicity and ease of use. It's widely employed for tasks like data scraping, file manipulation, and system administration.
+
+**12) Job Opportunities:** 
+
+  Python is in high demand in the job market. Learning Python can open up career opportunities in various industries, including technology, finance, healthcare, and more.
 
 # [Pythonic Code Style](#awesome-python-course---table-of-contents)
 Python leaves you free to choose to program in an object-oriented, procedural, functional, aspect-oriented, or even logic-oriented way. These freedoms make Python a great language to write clean and beautiful code.
@@ -435,7 +459,7 @@ ctrl + `
 ```
 ![terminal](./images/vscode%20terminal.png)
 
-#### [How to Download and Install Pycharm IDE:](#awesome-python-course---table-of-contents)
+### [How to Download and Install Pycharm IDE:](#awesome-python-course---table-of-contents)
 -------------------------------------------
 **Code Editor:** PyCharm provides a powerful code editor with features like syntax highlighting, code completion, code analysis, and code navigation. It supports a wide range of Python versions. 
 
@@ -604,30 +628,30 @@ Python has various built-in data types :
 ## [Number](#awesome-python-course---table-of-contents)
 * **Integer:**
 
-      Any representation involving only the digit symbols (0 to 9) creates an object of int type. The object so declared may be referred by a variable using an assignment operator.
+  Any representation involving only the digit symbols (0 to 9) creates an object of int type. The object so declared may be referred by a variable using an assignment operator.
 
-      Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
+  Integer(negative, zero and positive) numbers Example: ... -3, -2, -1, 0, 1, 2, 3 ...
 
 * **Float:**
 
-      A floating point number consists of an integral part and a fractional part. Conventionally, a decimal point symbol (.) separates these two parts in a literal representation of a float.
+  A floating point number consists of an integral part and a fractional part. Conventionally, a decimal point symbol (.) separates these two parts in a literal representation of a float.
 
-      Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
+  Decimal number Example ... -3.5, -2.25, -1.0, 0.0, 1.1, 2.2, 3.5 ...
 
 * **Complex Numbers:**
 
-      A complex number comprises of a real and imaginary component. The imaginary component is any number (integer or floating point) multiplied by square root of "-1"
+  A complex number comprises of a real and imaginary component. The imaginary component is any number (integer or floating point) multiplied by square root of "-1"
 
-      Example 2 + 4j, -1 + 2j
+  Example 2 + 4j, -1 + 2j
 
 * **Booleans**
 
-      A boolean data type is consist of two values, that is 
-      * True
-      * False 
-      the starting letter T and F should be always uppercase.
+  A boolean data type is consist of two values, that is 
+  * True
+  * False 
+  the starting letter T and F should be always uppercase.
 
-      > **In Python, the boolean data type represents two values: True and False. Booleans are often used for making logical decisions and controlling the flow of a program through conditional statements like if, else, and while. They are fundamental for expressing and evaluating logical expressions.**
+  > **In Python, the boolean data type represents two values: True and False. Booleans are often used for making logical decisions and controlling the flow of a program through conditional statements like if, else, and while. They are fundamental for expressing and evaluating logical expressions.**
 
 
 
